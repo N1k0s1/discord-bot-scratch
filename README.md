@@ -38,3 +38,5 @@
      - Use `/sync` to sync commands.
      - Use `/goodbye` to get a "Goodbye!" response.
      - Use the user command to greet a member.
+       
+      ![image](https://github.com/user-attachments/assets/d666c1b9-02a3-42f5-bd1b-64f6271be4a8)
